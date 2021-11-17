@@ -1,5 +1,5 @@
 class Admin::CategoriesController < ApplicationController
-
+  
   
 
 
